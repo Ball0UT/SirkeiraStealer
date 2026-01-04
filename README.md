@@ -4,7 +4,7 @@
 </div>
 
 > [!WARNING]
-> **WARNING:** This code is provided for **EDUCATIONAL PURPOSES ONLY** to study system security. Malicious use of this software is strictly prohibited and illegal. The author is not responsible for any misuse.
+> This code is provided for **EDUCATIONAL PURPOSES ONLY** to study system security. Malicious use of this software is strictly prohibited and illegal. The author is not responsible for any misuse.
 
 # Explanation
 
