@@ -67,8 +67,8 @@ Pillow
 - [x] Rising - Stealer.Agent/Python!1.103FE (CLASSIC)
 - [ ] Kaspersky - Undetected
 - [ ] BitDefender - Undetected
-- [ ] Microsoft Defender - Undetected
 - [ ] Malwarebytes - Undetected
+- [ ] Microsoft Defender - Undetected
 - [ ] CrowdStrike Falcon - Undetected
 
 ## Total 7/63 (the code wasn’t protected)
